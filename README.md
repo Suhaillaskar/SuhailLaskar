@@ -11,7 +11,7 @@ Based in **Bengaluru, India** 📍
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Data Analysis** | [cite_start]Python (Pandas, NumPy), SQL (MySQL, SQL Server, Oracle), PowerBI, Excel (VBA) [cite: 24, 45, 46, 47, 49] |
+| **Data Analysis** | [cite_start]Python, SQL (MySQL, SQL Server, Oracle), PowerBI, Excel (VBA) [cite: 24, 45, 46, 47, 49] |
 | **Machine Learning** | [cite_start]TensorFlow, OpenCV, CNN Models, Computer Vision [cite: 18, 47] |
 | **Web Development** | [cite_start]HTML5, CSS3, JavaScript, PHP, Java, C++ [cite: 35, 36, 45] |
 | **Cloud & Tools** | [cite_start]Oracle Cloud Infrastructure (OCI), Git, GitHub, VSCode [cite: 48, 51] |
@@ -46,6 +46,5 @@ Based in **Bengaluru, India** 📍
 ### 📫 Connect with me:
 * [cite_start]**LinkedIn**: [Suhail Ahmed Laskar](https://linkedin/SuhailAhmedLaskar) [cite: 6]
 * [cite_start]**Email**: [Suhaillaskar69@gmail.com](mailto:Suhaillaskar69@gmail.com) [cite: 6]
-* **Portfolio**: [Your Website Link Here]
 
 ---
